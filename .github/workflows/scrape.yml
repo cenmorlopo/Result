@@ -25,14 +25,30 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Show input files
+        shell: pwsh
+        run: |
+          Get-ChildItem
+          if (!(Test-Path "college_branch_start_regno_2023_updated.txt")) {
+            Write-Error "Missing college_branch_start_regno_2023_updated.txt"
+            exit 1
+          }
+
       - name: Run scraper
-        run: node scraper.js
+        shell: pwsh
+        run: |
+          node scraper.js
 
       - name: Commit and push progress
         shell: pwsh
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          if (!(Test-Path "state.json")) { New-Item -Path "state.json" -ItemType File | Out-Null }
+          if (!(Test-Path "seen.txt")) { New-Item -Path "seen.txt" -ItemType File | Out-Null }
+          if (!(Test-Path "back_students.txt")) { New-Item -Path "back_students.txt" -ItemType File | Out-Null }
+          if (!(Test-Path "run.log")) { New-Item -Path "run.log" -ItemType File | Out-Null }
 
           git add state.json seen.txt back_students.txt run.log
 
