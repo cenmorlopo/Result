@@ -1,0 +1,46 @@
+name: BEU Auto Scraper Relay
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  scrape-data:
+    runs-on: windows-2025
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        run: node scraper.js
+
+      - name: Commit and push progress
+        shell: pwsh
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add state.json seen.txt back_students.txt run.log
+
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            Write-Host "No changes to commit."
+            exit 0
+          }
+
+          git commit -m "Auto-update: scraper progress"
+          git push
