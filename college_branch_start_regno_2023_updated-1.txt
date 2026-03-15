@@ -1,0 +1,248 @@
+start_reg_no | college_code | college_name | branch_code | branch_name
+23102102001 | 102 | Vidya Vihar Institute of Technology, Purnea | 102 | Mechanical Engineering
+23104102001 | 102 | Vidya Vihar Institute of Technology, Purnea | 104 | Electronics & Communication Engineering
+23105102001 | 102 | Vidya Vihar Institute of Technology, Purnea | 105 | Computer Science & Engineering
+23110102001 | 102 | Vidya Vihar Institute of Technology, Purnea | 110 | Electrical & Electronics Engineering
+23101103001 | 103 | Netaji Subhas Institute of Technology, Bihta, Patna | 101 | Civil Engineering
+23102103001 | 103 | Netaji Subhas Institute of Technology, Bihta, Patna | 102 | Mechanical Engineering
+23104103001 | 103 | Netaji Subhas Institute of Technology, Bihta, Patna | 104 | Electronics & Communication Engineering
+23105103001 | 103 | Netaji Subhas Institute of Technology, Bihta, Patna | 105 | Computer Science & Engineering
+23110103001 | 103 | Netaji Subhas Institute of Technology, Bihta, Patna | 110 | Electrical & Electronics Engineering
+23101106001 | 106 | Sityog Institute of Technology, Aurangabad | 101 | Civil Engineering
+23102106001 | 106 | Sityog Institute of Technology, Aurangabad | 102 | Mechanical Engineering
+23103106001 | 106 | Sityog Institute of Technology, Aurangabad | 103 | Electrical Engineering
+23105106001 | 106 | Sityog Institute of Technology, Aurangabad | 105 | Computer Science & Engineering
+23101107001 | 107 | Muzaffarpur Institute of Technology, Muzaffarpur | 101 | Civil Engineering
+23102107001 | 107 | Muzaffarpur Institute of Technology, Muzaffarpur | 102 | Mechanical Engineering
+23103107001 | 107 | Muzaffarpur Institute of Technology, Muzaffarpur | 103 | Electrical Engineering
+23104107001 | 107 | Muzaffarpur Institute of Technology, Muzaffarpur | 104 | Electronics & Communication Engineering
+23106107001 | 107 | Muzaffarpur Institute of Technology, Muzaffarpur | 106 | Information Technology
+23107107001 | 107 | Muzaffarpur Institute of Technology, Muzaffarpur | 107 | Leather Technology Engineering
+23117107001 | 107 | Muzaffarpur Institute of Technology, Muzaffarpur | 117 | Biomedical and Robotic Engineering
+23101108001 | 108 | Bhagalpur College of Engineering, Bhagalpur | 101 | Civil Engineering
+23102108001 | 108 | Bhagalpur College of Engineering, Bhagalpur | 102 | Mechanical Engineering
+23103108001 | 108 | Bhagalpur College of Engineering, Bhagalpur | 103 | Electrical Engineering
+23104108001 | 108 | Bhagalpur College of Engineering, Bhagalpur | 104 | Electronics & Communication Engineering
+23105108001 | 108 | Bhagalpur College of Engineering, Bhagalpur | 105 | Computer Science & Engineering
+23101109001 | 109 | Nalanda College of Engineering, Chandi, Nalanda | 101 | Civil Engineering
+23102109001 | 109 | Nalanda College of Engineering, Chandi, Nalanda | 102 | Mechanical Engineering
+23105109001 | 109 | Nalanda College of Engineering, Chandi, Nalanda | 105 | Computer Science & Engineering
+23110109001 | 109 | Nalanda College of Engineering, Chandi, Nalanda | 110 | Electrical & Electronics Engineering
+23116109001 | 109 | Nalanda College of Engineering, Chandi, Nalanda | 116 | Aeronautical Engineering
+23101110001 | 110 | Gaya College of Engineering, Gaya | 101 | Civil Engineering
+23102110001 | 110 | Gaya College of Engineering, Gaya | 102 | Mechanical Engineering
+23105110001 | 110 | Gaya College of Engineering, Gaya | 105 | Computer Science & Engineering
+23110110001 | 110 | Gaya College of Engineering, Gaya | 110 | Electrical & Electronics Engineering
+23101111001 | 111 | Darbhanga College of Engineering, Darbhanga | 101 | Civil Engineering
+23102111001 | 111 | Darbhanga College of Engineering, Darbhanga | 102 | Mechanical Engineering
+23105111001 | 111 | Darbhanga College of Engineering, Darbhanga | 105 | Computer Science & Engineering
+23110111001 | 111 | Darbhanga College of Engineering, Darbhanga | 110 | Electrical & Electronics Engineering
+23112111001 | 111 | Darbhanga College of Engineering, Darbhanga | 112 | Fire Technology and Safety
+23101113001 | 113 | Motihari College of Engineering, Motihari, East Champaran | 101 | Civil Engineering
+23102113001 | 113 | Motihari College of Engineering, Motihari, East Champaran | 102 | Mechanical Engineering
+23105113001 | 113 | Motihari College of Engineering, Motihari, East Champaran | 105 | Computer Science & Engineering
+23110113001 | 113 | Motihari College of Engineering, Motihari, East Champaran | 110 | Electrical & Electronics Engineering
+23119113001 | 113 | Motihari College of Engineering, Motihari, East Champaran | 119 | Civil Engineering With Computer Application
+23151113001 | 113 | Motihari College of Engineering, Motihari, East Champaran | 151 | CSE (Artificial Intelligence)
+23101115001 | 115 | Azmet Institute of Technology, Kishanganj | 101 | Civil Engineering
+23102115001 | 115 | Azmet Institute of Technology, Kishanganj | 102 | Mechanical Engineering
+23103115001 | 115 | Azmet Institute of Technology, Kishanganj | 103 | Electrical Engineering
+23104115001 | 115 | Azmet Institute of Technology, Kishanganj | 104 | Electronics & Communication Engineering
+23105115001 | 115 | Azmet Institute of Technology, Kishanganj | 105 | Computer Science & Engineering
+23101117001 | 117 | Lok Nayak Jai Prakash Institute of Technology, Chapra, Saran | 101 | Civil Engineering
+23102117001 | 117 | Lok Nayak Jai Prakash Institute of Technology, Chapra, Saran | 102 | Mechanical Engineering
+23105117001 | 117 | Lok Nayak Jai Prakash Institute of Technology, Chapra, Saran | 105 | Computer Science & Engineering
+23110117001 | 117 | Lok Nayak Jai Prakash Institute of Technology, Chapra, Saran | 110 | Electrical & Electronics Engineering
+23115117001 | 117 | Lok Nayak Jai Prakash Institute of Technology, Chapra, Saran | 115 | Food Processing and Preservation
+23101118001 | 118 | Buddha Institute of Technology, Gaya | 101 | Civil Engineering
+23102118001 | 118 | Buddha Institute of Technology, Gaya | 102 | Mechanical Engineering
+23103118001 | 118 | Buddha Institute of Technology, Gaya | 103 | Electrical Engineering
+23104118001 | 118 | Buddha Institute of Technology, Gaya | 104 | Electronics & Communication Engineering
+23105118001 | 118 | Buddha Institute of Technology, Gaya | 105 | Computer Science & Engineering
+23101119001 | 119 | Adwaita Mission Institute of Technology, Banka | 101 | Civil Engineering
+23102119001 | 119 | Adwaita Mission Institute of Technology, Banka | 102 | Mechanical Engineering
+23103119001 | 119 | Adwaita Mission Institute of Technology, Banka | 103 | Electrical Engineering
+23104119001 | 119 | Adwaita Mission Institute of Technology, Banka | 104 | Electronics & Communication Engineering
+23105119001 | 119 | Adwaita Mission Institute of Technology, Banka | 105 | Computer Science & Engineering
+23101121001 | 121 | Moti Babu Institute of Technology, Forbisganj, Araria | 101 | Civil Engineering
+23102121001 | 121 | Moti Babu Institute of Technology, Forbisganj, Araria | 102 | Mechanical Engineering
+23103121001 | 121 | Moti Babu Institute of Technology, Forbisganj, Araria | 103 | Electrical Engineering
+23104121001 | 121 | Moti Babu Institute of Technology, Forbisganj, Araria | 104 | Electronics & Communication Engineering
+23105121001 | 121 | Moti Babu Institute of Technology, Forbisganj, Araria | 105 | Computer Science & Engineering
+23101122001 | 122 | Exalt College of Engineering & Technology, Vaishali | 101 | Civil Engineering
+23105122001 | 122 | Exalt College of Engineering & Technology, Vaishali | 105 | Computer Science & Engineering
+23101123001 | 123 | Siwan College of Engineering and Management, Siwan | 101 | Civil Engineering
+23102123001 | 123 | Siwan College of Engineering and Management, Siwan | 102 | Mechanical Engineering
+23103123001 | 123 | Siwan College of Engineering and Management, Siwan | 103 | Electrical Engineering
+23104123001 | 123 | Siwan College of Engineering and Management, Siwan | 104 | Electronics & Communication Engineering
+23105123001 | 123 | Siwan College of Engineering and Management, Siwan | 105 | Computer Science & Engineering
+23101124001 | 124 | Sershah College of Engineering, Sasaram | 101 | Civil Engineering
+23102124001 | 124 | Sershah College of Engineering, Sasaram | 102 | Mechanical Engineering
+23105124001 | 124 | Sershah College of Engineering, Sasaram | 105 | Computer Science & Engineering
+23110124001 | 124 | Sershah College of Engineering, Sasaram | 110 | Electrical & Electronics Engineering
+23113124001 | 124 | Sershah College of Engineering, Sasaram | 113 | Mining Engineering
+23101125001 | 125 | Rashtrakavi Ramdhari Singh Dinkar College of Engineering, Begusarai | 101 | Civil Engineering
+23102125001 | 125 | Rashtrakavi Ramdhari Singh Dinkar College of Engineering, Begusarai | 102 | Mechanical Engineering
+23105125001 | 125 | Rashtrakavi Ramdhari Singh Dinkar College of Engineering, Begusarai | 105 | Computer Science & Engineering
+23110125001 | 125 | Rashtrakavi Ramdhari Singh Dinkar College of Engineering, Begusarai | 110 | Electrical & Electronics Engineering
+23114125001 | 125 | Rashtrakavi Ramdhari Singh Dinkar College of Engineering, Begusarai | 114 | Chemical Engineering
+23101126001 | 126 | Bakhtiyarpur College of Engineering, Patna | 101 | Civil Engineering
+23102126001 | 126 | Bakhtiyarpur College of Engineering, Patna | 102 | Mechanical Engineering
+23105126001 | 126 | Bakhtiyarpur College of Engineering, Patna | 105 | Computer Science & Engineering
+23110126001 | 126 | Bakhtiyarpur College of Engineering, Patna | 110 | Electrical & Electronics Engineering
+23112126001 | 126 | Bakhtiyarpur College of Engineering, Patna | 112 | Fire Technology and Safety
+23155126001 | 126 | Bakhtiyarpur College of Engineering, Patna | 155 | CSE (Internet of Things)
+23101127001 | 127 | Sitamarhi Institute of Technology, Sitamarhi | 101 | Civil Engineering
+23102127001 | 127 | Sitamarhi Institute of Technology, Sitamarhi | 102 | Mechanical Engineering
+23103127001 | 127 | Sitamarhi Institute of Technology, Sitamarhi | 103 | Electrical Engineering
+23105127001 | 127 | Sitamarhi Institute of Technology, Sitamarhi | 105 | Computer Science & Engineering
+23119127001 | 127 | Sitamarhi Institute of Technology, Sitamarhi | 119 | Civil Engineering With Computer Application
+23157127001 | 127 | Sitamarhi Institute of Technology, Sitamarhi | 157 | CSE (Artificial Intelligence and Machine Learning)
+23101128001 | 128 | B. P. Mandal College of Engineering, Madhepura | 101 | Civil Engineering
+23102128001 | 128 | B. P. Mandal College of Engineering, Madhepura | 102 | Mechanical Engineering
+23105128001 | 128 | B. P. Mandal College of Engineering, Madhepura | 105 | Computer Science & Engineering
+23110128001 | 128 | B. P. Mandal College of Engineering, Madhepura | 110 | Electrical & Electronics Engineering
+23118128001 | 128 | B. P. Mandal College of Engineering, Madhepura | 118 | 3-D Animation and Graphics
+23119128001 | 128 | B. P. Mandal College of Engineering, Madhepura | 119 | Civil Engineering With Computer Application
+23101129001 | 129 | Katihar Engineering College, Katihar | 101 | Civil Engineering
+23102129001 | 129 | Katihar Engineering College, Katihar | 102 | Mechanical Engineering
+23105129001 | 129 | Katihar Engineering College, Katihar | 105 | Computer Science & Engineering
+23110129001 | 129 | Katihar Engineering College, Katihar | 110 | Electrical & Electronics Engineering
+23115129001 | 129 | Katihar Engineering College, Katihar | 115 | Food Processing and Preservation
+23101130001 | 130 | Supaul College of Engineering, Supaul | 101 | Civil Engineering
+23102130001 | 130 | Supaul College of Engineering, Supaul | 102 | Mechanical Engineering
+23103130001 | 130 | Supaul College of Engineering, Supaul | 103 | Electrical Engineering
+23104130001 | 130 | Supaul College of Engineering, Supaul | 104 | Electronics & Communication Engineering
+23105130001 | 130 | Supaul College of Engineering, Supaul | 105 | Computer Science & Engineering
+23101131001 | 131 | Purnea College of Engineering, Purnea | 101 | Civil Engineering
+23102131001 | 131 | Purnea College of Engineering, Purnea | 102 | Mechanical Engineering
+23103131001 | 131 | Purnea College of Engineering, Purnea | 103 | Electrical Engineering
+23104131001 | 131 | Purnea College of Engineering, Purnea | 104 | Electronics & Communication Engineering
+23105131001 | 131 | Purnea College of Engineering, Purnea | 105 | Computer Science & Engineering
+23151131001 | 131 | Purnea College of Engineering, Purnea | 151 | CSE (Artificial Intelligence)
+23101132001 | 132 | Saharsa College of Engineering, Saharsa | 101 | Civil Engineering
+23102132001 | 132 | Saharsa College of Engineering, Saharsa | 102 | Mechanical Engineering
+23103132001 | 132 | Saharsa College of Engineering, Saharsa | 103 | Electrical Engineering
+23104132001 | 132 | Saharsa College of Engineering, Saharsa | 104 | Electronics & Communication Engineering
+23153132001 | 132 | Saharsa College of Engineering, Saharsa | 153 | CSE (Data Science)
+23101133001 | 133 | Government Engineering College, Jamui | 101 | Civil Engineering
+23102133001 | 133 | Government Engineering College, Jamui | 102 | Mechanical Engineering
+23103133001 | 133 | Government Engineering College, Jamui | 103 | Electrical Engineering
+23104133001 | 133 | Government Engineering College, Jamui | 104 | Electronics & Communication Engineering
+23157133001 | 133 | Government Engineering College, Jamui | 157 | CSE (Artificial Intelligence and Machine Learning)
+23101134001 | 134 | Government Engineering College, Banka | 101 | Civil Engineering
+23102134001 | 134 | Government Engineering College, Banka | 102 | Mechanical Engineering
+23103134001 | 134 | Government Engineering College, Banka | 103 | Electrical Engineering
+23104134001 | 134 | Government Engineering College, Banka | 104 | Electronics & Communication Engineering
+23105134001 | 134 | Government Engineering College, Banka | 105 | Computer Science & Engineering
+23155134001 | 134 | Government Engineering College, Banka | 155 | CSE (Internet of Things)
+23101135001 | 135 | Government Engineering College, Vaishali | 101 | Civil Engineering
+23102135001 | 135 | Government Engineering College, Vaishali | 102 | Mechanical Engineering
+23103135001 | 135 | Government Engineering College, Vaishali | 103 | Electrical Engineering
+23104135001 | 135 | Government Engineering College, Vaishali | 104 | Electronics & Communication Engineering
+23155135001 | 135 | Government Engineering College, Vaishali | 155 | CSE (Internet of Things)
+23105136001 | 136 | Mother’s Institute of Technology, Bihta, Patna | 105 | Computer Science & Engineering
+23110136001 | 136 | Mother’s Institute of Technology, Bihta, Patna | 110 | Electrical & Electronics Engineering
+23101139001 | 139 | R. P. Sharma Institute of Technology, Patna | 101 | Civil Engineering
+23102139001 | 139 | R. P. Sharma Institute of Technology, Patna | 102 | Mechanical Engineering
+23105139001 | 139 | R. P. Sharma Institute of Technology, Patna | 105 | Computer Science & Engineering
+23110139001 | 139 | R. P. Sharma Institute of Technology, Patna | 110 | Electrical & Electronics Engineering
+23101140001 | 140 | Maulana Azad College of Engineering and Technology, Neora, Patna | 101 | Civil Engineering
+23102140001 | 140 | Maulana Azad College of Engineering and Technology, Neora, Patna | 102 | Mechanical Engineering
+23105140001 | 140 | Maulana Azad College of Engineering and Technology, Neora, Patna | 105 | Computer Science & Engineering
+23110140001 | 140 | Maulana Azad College of Engineering and Technology, Neora, Patna | 110 | Electrical & Electronics Engineering
+23153140001 | 140 | Maulana Azad College of Engineering and Technology, Neora, Patna | 153 | CSE (Data Science)
+23157140001 | 140 | Maulana Azad College of Engineering and Technology, Neora, Patna | 157 | CSE (Artificial Intelligence and Machine Learning)
+23101141001 | 141 | Government Engineering College, Nawada | 101 | Civil Engineering
+23102141001 | 141 | Government Engineering College, Nawada | 102 | Mechanical Engineering
+23103141001 | 141 | Government Engineering College, Nawada | 103 | Electrical Engineering
+23101142001 | 142 | Government Engineering College, Kishanganj | 101 | Civil Engineering
+23102142001 | 142 | Government Engineering College, Kishanganj | 102 | Mechanical Engineering
+23103142001 | 142 | Government Engineering College, Kishanganj | 103 | Electrical Engineering
+23104142001 | 142 | Government Engineering College, Kishanganj | 104 | Electronics & Communication Engineering
+23101144001 | 144 | Government Engineering College, Munger | 101 | Civil Engineering
+23102144001 | 144 | Government Engineering College, Munger | 102 | Mechanical Engineering
+23103144001 | 144 | Government Engineering College, Munger | 103 | Electrical Engineering
+23151144001 | 144 | Government Engineering College, Munger | 151 | CSE (Artificial Intelligence)
+23101145001 | 145 | Government Engineering College, Sheohar | 101 | Civil Engineering
+23102145001 | 145 | Government Engineering College, Sheohar | 102 | Mechanical Engineering
+23103145001 | 145 | Government Engineering College, Sheohar | 103 | Electrical Engineering
+23104145001 | 145 | Government Engineering College, Sheohar | 104 | Electronics & Communication Engineering
+23153145001 | 145 | Government Engineering College, Sheohar | 153 | CSE (Data Science)
+23101146001 | 146 | Government Engineering College, West Champaran | 101 | Civil Engineering
+23102146001 | 146 | Government Engineering College, West Champaran | 102 | Mechanical Engineering
+23103146001 | 146 | Government Engineering College, West Champaran | 103 | Electrical Engineering
+23104146001 | 146 | Government Engineering College, West Champaran | 104 | Electronics & Communication Engineering
+23152146001 | 146 | Government Engineering College, West Champaran | 152 | CSE (Cyber Security)
+23101147001 | 147 | Government Engineering College, Aurangabad | 101 | Civil Engineering
+23102147001 | 147 | Government Engineering College, Aurangabad | 102 | Mechanical Engineering
+23103147001 | 147 | Government Engineering College, Aurangabad | 103 | Electrical Engineering
+23104147001 | 147 | Government Engineering College, Aurangabad | 104 | Electronics & Communication Engineering
+23157147001 | 147 | Government Engineering College, Aurangabad | 157 | CSE (Artificial Intelligence and Machine Learning)
+23101148001 | 148 | Government Engineering College, Kaimur | 101 | Civil Engineering
+23102148001 | 148 | Government Engineering College, Kaimur | 102 | Mechanical Engineering
+23103148001 | 148 | Government Engineering College, Kaimur | 103 | Electrical Engineering
+23104148001 | 148 | Government Engineering College, Kaimur | 104 | Electronics & Communication Engineering
+23156148001 | 148 | Government Engineering College, Kaimur | 156 | CSE (Networks)
+23101149001 | 149 | Government Engineering College, Gopalganj | 101 | Civil Engineering
+23102149001 | 149 | Government Engineering College, Gopalganj | 102 | Mechanical Engineering
+23103149001 | 149 | Government Engineering College, Gopalganj | 103 | Electrical Engineering
+23154149001 | 149 | Government Engineering College, Gopalganj | 154 | CSE (IoT and Cyber Security incl. Blockchain)
+23101150001 | 150 | Government Engineering College, Madhubani | 101 | Civil Engineering
+23102150001 | 150 | Government Engineering College, Madhubani | 102 | Mechanical Engineering
+23103150001 | 150 | Government Engineering College, Madhubani | 103 | Electrical Engineering
+23101151001 | 151 | Government Engineering College, Siwan | 101 | Civil Engineering
+23102151001 | 151 | Government Engineering College, Siwan | 102 | Mechanical Engineering
+23103151001 | 151 | Government Engineering College, Siwan | 103 | Electrical Engineering
+23155151001 | 151 | Government Engineering College, Siwan | 155 | CSE (Internet of Things)
+23101152001 | 152 | Government Engineering College, Jehanabad | 101 | Civil Engineering
+23102152001 | 152 | Government Engineering College, Jehanabad | 102 | Mechanical Engineering
+23103152001 | 152 | Government Engineering College, Jehanabad | 103 | Electrical Engineering
+23101153001 | 153 | Government Engineering College, Arwal | 101 | Civil Engineering
+23102153001 | 153 | Government Engineering College, Arwal | 102 | Mechanical Engineering
+23103153001 | 153 | Government Engineering College, Arwal | 103 | Electrical Engineering
+23153153001 | 153 | Government Engineering College, Arwal | 153 | CSE (Data Science)
+23101154001 | 154 | Government Engineering College, Khagaria | 101 | Civil Engineering
+23102154001 | 154 | Government Engineering College, Khagaria | 102 | Mechanical Engineering
+23103154001 | 154 | Government Engineering College, Khagaria | 103 | Electrical Engineering
+23155154001 | 154 | Government Engineering College, Khagaria | 155 | CSE (Internet of Things)
+23101155001 | 155 | Government Engineering College, Buxar | 101 | Civil Engineering
+23102155001 | 155 | Government Engineering College, Buxar | 102 | Mechanical Engineering
+23103155001 | 155 | Government Engineering College, Buxar | 103 | Electrical Engineering
+23104155001 | 155 | Government Engineering College, Buxar | 104 | Electronics & Communication Engineering
+23101156001 | 156 | Government Engineering College, Bhojpur | 101 | Civil Engineering
+23102156001 | 156 | Government Engineering College, Bhojpur | 102 | Mechanical Engineering
+23103156001 | 156 | Government Engineering College, Bhojpur | 103 | Electrical Engineering
+23111156001 | 156 | Government Engineering College, Bhojpur | 111 | Instrumentation Engineering
+23101157001 | 157 | Government Engineering College, Sheikhpura | 101 | Civil Engineering
+23102157001 | 157 | Government Engineering College, Sheikhpura | 102 | Mechanical Engineering
+23103157001 | 157 | Government Engineering College, Sheikhpura | 103 | Electrical Engineering
+23104157001 | 157 | Government Engineering College, Sheikhpura | 104 | Electronics & Communication Engineering
+23101158001 | 158 | Government Engineering College, Lakhisarai | 101 | Civil Engineering
+23102158001 | 158 | Government Engineering College, Lakhisarai | 102 | Mechanical Engineering
+23103158001 | 158 | Government Engineering College, Lakhisarai | 103 | Electrical Engineering
+23151158001 | 158 | Government Engineering College, Lakhisarai | 151 | CSE (Artificial Intelligence)
+23101159001 | 159 | Government Engineering College, Samastipur | 101 | Civil Engineering
+23102159001 | 159 | Government Engineering College, Samastipur | 102 | Mechanical Engineering
+23103159001 | 159 | Government Engineering College, Samastipur | 103 | Electrical Engineering
+23152159001 | 159 | Government Engineering College, Samastipur | 152 | CSE (Cyber Security)
+23101165001 | 165 | Shri Phanishwar Nath Renu Engineering College, Araria | 101 | Civil Engineering
+23102165001 | 165 | Shri Phanishwar Nath Renu Engineering College, Araria | 102 | Mechanical Engineering
+23103165001 | 165 | Shri Phanishwar Nath Renu Engineering College, Araria | 103 | Electrical Engineering
+23104165001 | 165 | Shri Phanishwar Nath Renu Engineering College, Araria | 104 | Electronics & Communication Engineering
+23101166001 | 166 | Millia Kishanganj College of Engineering & Technology, Kishanganj | 101 | Civil Engineering
+23102166001 | 166 | Millia Kishanganj College of Engineering & Technology, Kishanganj | 102 | Mechanical Engineering
+23103166001 | 166 | Millia Kishanganj College of Engineering & Technology, Kishanganj | 103 | Electrical Engineering
+23104166001 | 166 | Millia Kishanganj College of Engineering & Technology, Kishanganj | 104 | Electronics & Communication Engineering
+23105166001 | 166 | Millia Kishanganj College of Engineering & Technology, Kishanganj | 105 | Computer Science & Engineering
+23101167001 | 167 | Millia Institute of Technology, Purnea | 101 | Civil Engineering
+23102167001 | 167 | Millia Institute of Technology, Purnea | 102 | Mechanical Engineering
+23103167001 | 167 | Millia Institute of Technology, Purnea | 103 | Electrical Engineering
+23104167001 | 167 | Millia Institute of Technology, Purnea | 104 | Electronics & Communication Engineering
+23105167001 | 167 | Millia Institute of Technology, Purnea | 105 | Computer Science & Engineering
+23101168001 | 168 | Prabhu Kailash Engineering College, Aurangabad | 101 | Civil Engineering
+23102168001 | 168 | Prabhu Kailash Engineering College, Aurangabad | 102 | Mechanical Engineering
+23103168001 | 168 | Prabhu Kailash Engineering College, Aurangabad | 103 | Electrical Engineering
+23158168001 | 168 | Prabhu Kailash Engineering College, Aurangabad | 158 | Agricultural Engineering
+23164168001 | 168 | Prabhu Kailash Engineering College, Aurangabad | 164 | Artificial Intelligence
+23167168001 | 168 | Prabhu Kailash Engineering College, Aurangabad | 167 | Computer Science
